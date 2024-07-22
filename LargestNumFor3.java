@@ -35,6 +35,7 @@ class LargestNumFor3{
         }
         else{
             System.out.print("Invalid input");
-        }    
+        }  
+        sc.close();  
     }
 }
